@@ -32,10 +32,8 @@ The model's effectiveness is rigorously evaluated using standard metrics such as
 To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
-
 git clone https://github.com/your-username/your-repository.git  
 2. Install the required dependencies:
-
 pip install -r requirements.txt  
 3. Run the Jupyter notebook:
 
