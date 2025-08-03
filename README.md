@@ -1,4 +1,4 @@
-## Recommendation System Project
+## Amazon Reviews Recommendation System Project
 
 This project demonstrates the implementation of a recommendation system using a subset of the Amazon Reviews dataset. The goal is to build a model that can provide personalized product recommendations to users based on their past rating behavior. The project uses a collaborative filtering approach, specifically Singular Value Decomposition (SVD), to predict user ratings and suggest new products.
 
